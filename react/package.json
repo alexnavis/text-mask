@@ -1,5 +1,5 @@
 {
-  "name": "react-text-mask",
+  "name": "@digifi-io/react-text-mask-ie",
   "version": "5.0.2",
   "description": "React input component that accepts mask pattern",
   "main": "dist/reactTextMask.js",
